@@ -26,7 +26,7 @@ Simon Game is a web app based on the game of the same name, where users are give
 
 ## 🎬 App Preview
 
-<img src="https://raw.githubusercontent.com/py415/app-resources/master/Mockups/web/compressed/5.%20simon-game-full-screen.png">
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/Mockups/web/compressed/5.%20simon-game-full-screen.webp">
 
 ## 📚 Libraries
 
